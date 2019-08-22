@@ -1,0 +1,22 @@
+{
+  "name": "pos-machine-tasking-2019-6-13-7-58-50-596",
+  "version": "1.0.0",
+  "description": "A cash register (POS) system is used in the store for settlement of the store. This cashier will settle and print the receipt (Receipt) according to the item(Item) in the customer's shopping cart (Cart) at the time of settlement.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recruiting-system/Pos-Machine-Tasking-2019-6-13-7-58-50-596.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/recruiting-system/Pos-Machine-Tasking-2019-6-13-7-58-50-596/issues"
+  },
+  "homepage": "https://github.com/recruiting-system/Pos-Machine-Tasking-2019-6-13-7-58-50-596#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
